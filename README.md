@@ -1,2 +1,2 @@
 # Project
-fitst project
+first project
